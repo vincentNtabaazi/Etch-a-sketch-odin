@@ -1,0 +1,12 @@
+.container{
+  display: flex;
+  max-width: 960px;
+}
+
+.square-color{
+  background-color: rgb(38, 171, 171);
+}
+
+.grid{
+width: 100%;
+}
